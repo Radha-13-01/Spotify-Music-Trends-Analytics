@@ -1,4 +1,4 @@
-Spotify Music Trends Analytics Project
+  🟢 Spotify Music Trends Analytics Project 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This repository contains the code and documentation for the Spotify Music Trends Analytics project. The goal of this project is to analyze Spotify tracks, artists, and albums to uncover insights regarding popularity trends, genre distribution, and artist performance using a comprehensive data analytics pipeline.
